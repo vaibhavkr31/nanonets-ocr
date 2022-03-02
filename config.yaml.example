@@ -1,0 +1,8 @@
+---
+#Nanonets Env Variables
+userName: "UserName"
+passWord: "PASS"
+#Valid Values TRACE, DEBUG, INFO, WARN, ERROR, FATAL
+logLevel: "DEBUG"
+mongoURI: "mongodb+srv://username:password@random.cluste.mongodb.net/database"
+blDocModelId: "Model Id"
